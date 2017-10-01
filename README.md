@@ -5,5 +5,3 @@
 ```
 docker commit CONTAINER_NAME COMMIT_NAME
 ```
-
-## 1. Commit a docker container
